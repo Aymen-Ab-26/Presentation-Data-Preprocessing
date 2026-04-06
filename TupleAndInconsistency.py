@@ -16,7 +16,7 @@ df['Publisher'] = df['Publisher'].str.strip()
 # SEMANTIC INCONSISTENCY
 # Groups by the Key (Product_ID) and resolves conflicting values
 # Note: Pandas renames the second 'Price' column to 'Price.1' automatically
-# The as_index=False parameter is telling pandas: don't treat row numbers as actual data.
+# The as_index=False parameter is telling pandas: don't treat row numbers as actual data
 df_cleaned = df.groupby('Product_ID', as_index=False).agg({
     'Game_Title': 'first',
     'Game_Name': 'first',
