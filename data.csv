@@ -1,27 +1,27 @@
 Product_ID,Game_Title,Game_Name,Platform,Price,Price,Price_With_Tax,Metacritic_Score,User_Rating,Stock_Status,Publisher
 501,Elden Ring,Elden Ring,PC,59.99,49.99,71.99,96,9.6,In Stock,FromSoftware
-501,Elden Ring,Elden Ring,PC,59.99,49.99,71.99,97,10.0,In Stock,FromSoftware
+501,Elden Ring,Elden Ring,PC,59.99,49.99,71.99,97,9.7,In Stock,FromSoftware
 502,Cyberpunk 2077,Cyberpunk 2077,PS5,29.99,19.99,35.99,85,8.4,In Stock,CD Projekt
 502,Cyberpunk 2077,Cyberpunk 2077,PS5,49.99,39.99,59.99,89,9.1,In Stock,CD Projekt
 503,Halo Infinite,Halo Infinite,Xbox,59.99,49.99,71.99,86,8.8,Out of Stock,Xbox Game Studios
 503,Halo Infinite,Halo Infinite,Xbox,59.99,49.99,71.99,86,8.5,OUT OF STOCK,Xbox Game Studios
-504,Stardew Valley,Stardew Valley,Switch,14.99,9.99,17.99,89,8.3,In Stock,ConcernedApe
+504,Stardew Valley,Stardew Valley,Switch,14.99,9.99,17.99,89,8.9,In Stock,ConcernedApe
 504,Stardew Valley,Stardew Valley,Switch,14.99,9.99,17.99,85,8.3,Discontinued,ConcernedApe
 505,Minecraft,Minecraft,PC,26.95,19.95,32.34,90,9.1,In Stock,Mojang
 506,Terraria,Terraria,PC,9.99,4.99,11.99,81,7.7,In Stock,Re-Logic
 506,Terraria,Terraria,PC,9.99,4.99,11.99,85,8.4,In Stock,Re-Logic
 507,Hades,Hades,PS5,24.99,14.99,29.99,93,8.9,In Stock,Supergiant Games
 507,Hades,Hades,PS5,24.99,14.99,29.99,91,9.1,In Stock,Supergiant
-508,Baldur's Gate 3,Baldur's Gate 3,PC,59.99,49.99,71.99,93,9.4,In Stock,Larian Studios
+508,Baldur's Gate 3,Baldur's Gate 3,PC,59.99,49.99,71.99,94,9.4,In Stock,Larian Studios
 508,Baldur's Gate 3,Baldur's Gate 3,PC,0.0,0.0,0.0,94,9.3,In Stock,Larian Studios
-509,Fallout 4,Fallout 4,Xbox,19.99,9.99,23.99,82,8.8,In Stock,Bethesda
-510,God of War,God of War,PS5,49.99,39.99,59.99,93,9.0,In Stock,Santa Monica Studio
+509,Fallout 4,Fallout 4,Xbox,19.99,9.99,23.99,82,8.6,In Stock,Bethesda
+510,God of War,God of War,PS5,49.99,39.99,59.99,91,9.0,In Stock,Santa Monica Studio
 511,The Witcher 3,The Witcher 3,PC,9.99,4.99,11.99,93,8.9,In Stock,CD Projekt
 512,Red Dead Redemption 2,Red Dead Redemption 2,PS5,39.99,29.99,47.99,97,9.1,In Stock,Rockstar
 513,Hollow Knight,Hollow Knight,PC,14.99,9.99,17.99,84,8.5,In Stock,Team Cherry
 514,Dead Cells,Dead Cells,Switch,24.99,14.99,29.99,90,9.1,Out of Stock,Motion Twin
 515,Celeste,Celeste,PC,19.99,9.99,23.99,93,9.2,In Stock,Maddy Makes Games
-516,Disco Elysium,Disco Elysium,PC,39.99,29.99,47.99,94,9.2,In Stock,ZA/UM
+516,Disco Elysium,Disco Elysium,PC,39.99,29.99,47.99,94,9.4,In Stock,ZA/UM
 517,Sekiro,Sekiro,PC,49.99,39.99,59.99,89,9.2,In Stock,FromSoftware
 518,Ghost of Tsushima,Ghost of Tsushima,PS5,49.99,39.99,59.99,83,7.8,In Stock,Sucker Punch
 519,Spider-Man Remastered,Spider-Man Remastered,PC,49.99,39.99,59.99,87,8.6,Out of Stock,Insomniac Games
