@@ -18,7 +18,7 @@ Product_ID,Game_Title,Game_Name,Platform,Price,Price,Price_With_Tax,Metacritic_S
 510,God of War,God of War,PS5,49.99,39.99,59.99,91,9.0,In Stock,Santa Monica Studio
 511,The Witcher 3,The Witcher 3,PC,9.99,4.99,11.99,93,8.9,In Stock,CD Projekt
 512,Red Dead Redemption 2,Red Dead Redemption 2,PS5,39.99,29.99,47.99,97,9.1,In Stock,Rockstar
-513,Hollow Knight,HolLow KNight,PC,14.99,9.99,17.99,84,8.5,In Stock,Team Cherry
+513,Hollow Knight,Hollow Knight,PC,14.99,9.99,17.99,84,8.5,In Stock,Team Cherry
 514,Dead Cells,Dead Cells,Switch,24.99,14.99,29.99,90,9.1,Out of Stock,Motion Twin
 515,Celeste,Celeste,PC,19.99,9.99,23.99,93,9.2,In Stock,Maddy Makes Games
 516,Disco Elysium,Disco Elysium,PC,39.99,29.99,47.99,94,9.4,In Stock,ZA/UM
